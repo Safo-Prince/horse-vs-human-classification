@@ -1,1 +1,1 @@
-# Horse_Vs_Human_Classification
+# Horse Vs Human Classification
